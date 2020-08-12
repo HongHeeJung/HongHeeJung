@@ -8,7 +8,7 @@ I am Software Engineer from Korea.
 
 ## 📬 Get in touch
 
-Email: [honghj621@gmail.com]
+Email: [hongwz2@naver.com]
 
 ## 🌱 I’m currently learning about..
 
