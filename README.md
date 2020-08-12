@@ -4,7 +4,7 @@
 Hey 👋🏻,
 
 I am Software Engineer from Korea.  
-You can see how I live it up on [liveituphj][1].
+<!-- You can see how I live it up on [liveituphj][1]. -->
 
 ## 📬 Get in touch
 
@@ -19,4 +19,4 @@ Autonomous driving - perception & path-following
 
 <!-- ## &#x1f4c8; My GitHub Stats -->
 
-[1]: https://liveituphj.tistory.com/
+<!-- [1]: https://liveituphj.tistory.com/ -->
