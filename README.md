@@ -12,7 +12,7 @@ Email: [hongwz2@naver.com]
 
 ## 🌱 I’m currently learning about..
 
-Autonomous driving - perception & path-following
+Autonomous driving - Perception & Path-following
 
 <!--## 📕 Latest Blog Posts -->
 
