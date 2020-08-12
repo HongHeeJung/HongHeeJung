@@ -1,5 +1,5 @@
 <!--
-**HongHeeJung/HongHeeJung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HongHeeJung/HongHeeJung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 [![Hello 👋🏻](https://liveituphj.tistory.com/)][1]
 
