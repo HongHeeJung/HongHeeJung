@@ -10,9 +10,9 @@ You can see how I live it up on [liveituphj.tistory.com][1].
 
 Email: [honghj621@gmail.com]
 
-## 🌱 My Digital Garden
+## 🌱 I’m currently learning about..
 
-I’m currently learning about autonomous driving - perception & path-following
+Autonomous driving - perception & path-following
 
 <!--## 📕 Latest Blog Posts -->
 
