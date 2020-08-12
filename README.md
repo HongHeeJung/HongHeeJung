@@ -1,16 +1,23 @@
-### Hi there 👋
-
 <!--
 **HongHeeJung/HongHeeJung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Hello 👋🏻](https://liveituphj.tistory.com/)][1]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hey 👋🏻,
+
+I am Software Engineer from Korea.
+You can see how I live it up on [liveituphj.tistory.com][1].
+
+## 📬 Get in touch
+
+Email: [honghj621@gmail.com]
+
+## 🌱 My Digital Garden
+
+I’m currently learning about autonomous driving - perception & path-following
+
+## 📕 Latest Blog Posts
+
+
+## &#x1f4c8; My GitHub Stats
+
