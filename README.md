@@ -3,7 +3,7 @@
 
 Hey 👋🏻,
 
-I am Software Engineer from Korea.
+I am Software Engineer from Korea.  
 You can see how I live it up on [liveituphj][1].
 
 ## 📬 Get in touch
