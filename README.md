@@ -3,16 +3,17 @@
 
 Hey 👋🏻,
 
-I am Software Engineer from Korea.  
+I am a Software Engineer from Korea.  
 <!-- You can see how I live it up on [liveituphj][1]. -->
 
 ## 📬 Get in touch
 
-Email: [hongwz2@naver.com]
+Email: [honghj621@gmail.com]
 
 ## 🌱 I’m currently learning about..
 
-Autonomous driving - Perception & Path-following
+Autonomous driving : Perception & Path-following  
+Embedded development  
 
 <!--## 📕 Latest Blog Posts -->
 
